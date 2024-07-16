@@ -32,16 +32,20 @@ npx expo start --ios
 Project Structure
 
 app
-├── components
-├── config
-├── i18n
-├── models - Models to store api data
-├── navigators 
-├── screens - Business logic
-├── services - Api services
-├── theme - App theme files
-├── utils 
-└── app.tsx - Application entry point
+ - components
+ - config
+ - i18n
+ - models
+   -Models to store api data
+ - navigators
+ - screens
+   - Business logic
+ - services
+   - Api services
+ - theme
+   - App theme files
+ - utils
+ - app.tsx - Application entry point
 
 ---------------------------------------------------
 API Routes
